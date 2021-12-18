@@ -903,7 +903,7 @@ pre {
           user-select: none;
 }
 .lineno::selection, .lineno::-moz-selection {
-  background: none;
+  background: #01FF70 ;
 }
 
 /* Fix table border github gist snippets */
