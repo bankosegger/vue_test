@@ -7,9 +7,15 @@
 
 # Name of website
 title: nomnom
+<<<<<<< HEAD
 
 # Your name to show in the footer
 author: Philip Bankosegger
+=======
+# Your name to show in the footer
+author: Philip Bankosegger
+
+>>>>>>> 3932066fa95c572ca0188a92bcde8fab98951317
 # --- List of links in the navigation bar --- #
 
 navbar-links:
