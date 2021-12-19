@@ -1,0 +1,5 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1354    1200    1354      15092  pty1      197609 00:35:02 /usr/bin/PS
+     1199       1    1199       4116  ?         197609 00:19:06 /usr/bin/mintty
+     1200    1199    1200       7360  pty1      197609 00:19:06 /usr/bin/bash
+     1198       1    1198      16672  pty0      197609 00:18:18 /c/Ruby27-x64/bin/ruby
